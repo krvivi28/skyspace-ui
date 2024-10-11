@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.dropzone {
+  border: 2px dashed #007bff;
+  padding: 20px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.Toastify__progress-bar {
+  background-color: #1570ef;
+}
